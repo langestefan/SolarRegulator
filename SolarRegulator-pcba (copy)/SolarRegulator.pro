@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 update=wo 19 aug 2020 20:19:42 CEST
-=======
-update=ma 17 aug 2020 23:11:32 CEST
->>>>>>> fac525146376cd9c25e62f731f445ac088a03a34
 version=1
 last_client=kicad
 [general]
